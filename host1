@@ -1,6 +1,7 @@
-file: example.log
-owner: someuser
+
 group: somegroup
 server: 127.0.0.1
+
+
 domain: somedomain.com
 monitoring: local
